@@ -1,2 +1,2 @@
 # Shivani--Netflix Home Page
-Netflix HomePage using HTML,CSS,Js
+Netflix HomePage created using HTML,CSS,Js
